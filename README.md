@@ -34,6 +34,12 @@ customer-churn-prediction/
 
 ## How to Run
 
+From the folder containing `app.py`, first enter the project directory:
+
+```powershell
+cd customer-churn-prediction
+```
+
 ### 1. Create and activate virtual environment
 
 Windows PowerShell:
